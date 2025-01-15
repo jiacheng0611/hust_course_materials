@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>hust.cs.javacourse.search.index.AbstractDocument</OriginalElement>
+  <nodes>
+    <node x="1136.6290881092239" y="208.34849761844617">hust.cs.javacourse.search.parse.AbstractTermTupleStream</node>
+    <node x="858.5136977092476" y="384.34264074422765">hust.cs.javacourse.search.index.AbstractTermTuple</node>
+    <node x="867.3797193555481" y="829.9027954364507">hust.cs.javacourse.search.run.TestBuildIndex</node>
+    <node x="700.3343682172077" y="1063.692754083942">hust.cs.javacourse.search.util.StopWords</node>
+    <node x="1526.086326090693" y="660.1266273346309">hust.cs.javacourse.search.parse.AbstractTermTupleFilter</node>
+    <node x="973.5138941959992" y="1301.9376292479178">hust.cs.javacourse.search.query.AbstractHit</node>
+    <node x="1092.2015965775304" y="588.2304699605326">hust.cs.javacourse.search.index.FileSerializable</node>
+    <node x="0.15819147034287084" y="251.24265561335858">hust.cs.javacourse.search.query.AbstractIndexSearcher</node>
+    <node x="1195.9887199964994" y="984.7698197845725">hust.cs.javacourse.search.util.FileUtil</node>
+    <node x="468.7582828002668" y="645.5204712681109">hust.cs.javacourse.search.index.AbstractPosting</node>
+    <node x="26.15288812369954" y="510.9137703566728">hust.cs.javacourse.search.index.AbstractDocument</node>
+    <node x="914.640477806925" y="990.2730704214464">hust.cs.javacourse.search.index.AbstractTerm</node>
+    <node x="839.4995004007467" y="662.2229126453253">hust.cs.javacourse.search.run.TestSearchIndex</node>
+    <node x="569.2910979923106" y="1501.9106479663449">hust.cs.javacourse.search.util.Config</node>
+    <node x="549.3848111604924" y="185.43706028001623">hust.cs.javacourse.search.index.AbstractPostingList</node>
+    <node x="184.20665396493519" y="1073.640562311808">hust.cs.javacourse.search.index.AbstractIndex</node>
+    <node x="230.69491693392735" y="0.894305040289396">hust.cs.javacourse.search.parse.AbstractTermTupleScanner</node>
+    <node x="685.8253186165449" y="13.40023636780279">hust.cs.javacourse.search.index.AbstractDocumentBuilder</node>
+    <node x="1186.607139695251" y="421.40412153126084">hust.cs.javacourse.search.index.AbstractIndexBuilder</node>
+    <node x="641.0617210105544" y="1190.3018133726328">hust.cs.javacourse.search.query.Sort</node>
+    <node x="1103.583836230543" y="746.8532470019885">hust.cs.javacourse.search.util.StringSplitter</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="分层" zoom="0.4812206572769953" showDependencies="false" x="949.5" y="852.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>字段</Category>
+    <Category>属性</Category>
+    <Category>方法</Category>
+    <Category>构造函数</Category>
+  </Categories>
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

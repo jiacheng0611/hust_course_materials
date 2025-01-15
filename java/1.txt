@@ -1,0 +1,8 @@
+set JAVA_HOME=C:\Program Files\Java\jdk-1.8
+set PROJECT_HOME=C:\javahomework
+set path=%path%;%JAVA_HOME%\bin
+set classpath=%classpath%;%PROJECT_HOME%\chapter1\class
+java -classpath %classpath% homework.ch1.Welcome
+
+set classpath=%classpath%;%PROJECT_HOME%\chapter1\jar\run.jar
+java -jar C:\javahomework\chapter1\jar\run.jar
