@@ -1,0 +1,1 @@
+{"device": "cuda", "random_seed": 1024, "data_path": "./examples/data4", "net_path": "./examples/torch_alex.pth", "cam_type": "ScoreCAM", "use_eigen": true, "use_aug": true, "flip": false}

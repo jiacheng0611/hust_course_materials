@@ -1,0 +1,62 @@
+Valid:	 Iteration[001/051] Acc:98.28%
+Valid:	 Iteration[002/051] Acc:98.38%
+Valid:	 Iteration[003/051] Acc:98.26%
+Valid:	 Iteration[004/051] Acc:98.29%
+Valid:	 Iteration[005/051] Acc:98.36%
+Valid:	 Iteration[006/051] Acc:98.36%
+Valid:	 Iteration[007/051] Acc:98.35%
+Valid:	 Iteration[008/051] Acc:98.37%
+Valid:	 Iteration[009/051] Acc:98.35%
+Valid:	 Iteration[010/051] Acc:98.36%
+Valid:	 Iteration[011/051] Acc:98.37%
+Valid:	 Iteration[012/051] Acc:98.38%
+Valid:	 Iteration[013/051] Acc:98.38%
+Valid:	 Iteration[014/051] Acc:98.38%
+Valid:	 Iteration[015/051] Acc:98.38%
+Valid:	 Iteration[016/051] Acc:98.37%
+Valid:	 Iteration[017/051] Acc:98.37%
+Valid:	 Iteration[018/051] Acc:98.36%
+Valid:	 Iteration[019/051] Acc:98.37%
+Valid:	 Iteration[020/051] Acc:98.36%
+Valid:	 Iteration[021/051] Acc:98.36%
+Valid:	 Iteration[022/051] Acc:98.35%
+Valid:	 Iteration[023/051] Acc:98.35%
+Valid:	 Iteration[024/051] Acc:98.36%
+Valid:	 Iteration[025/051] Acc:98.35%
+Valid:	 Iteration[026/051] Acc:98.35%
+Valid:	 Iteration[027/051] Acc:98.35%
+Valid:	 Iteration[028/051] Acc:98.36%
+Valid:	 Iteration[029/051] Acc:98.35%
+Valid:	 Iteration[030/051] Acc:98.35%
+Valid:	 Iteration[031/051] Acc:98.35%
+Valid:	 Iteration[032/051] Acc:98.35%
+Valid:	 Iteration[033/051] Acc:98.35%
+Valid:	 Iteration[034/051] Acc:98.35%
+Valid:	 Iteration[035/051] Acc:98.35%
+Valid:	 Iteration[036/051] Acc:98.36%
+Valid:	 Iteration[037/051] Acc:98.37%
+Valid:	 Iteration[038/051] Acc:98.37%
+Valid:	 Iteration[039/051] Acc:98.37%
+Valid:	 Iteration[040/051] Acc:98.38%
+Valid:	 Iteration[041/051] Acc:98.38%
+Valid:	 Iteration[042/051] Acc:98.38%
+Valid:	 Iteration[043/051] Acc:98.38%
+Valid:	 Iteration[044/051] Acc:98.38%
+Valid:	 Iteration[045/051] Acc:98.37%
+Valid:	 Iteration[046/051] Acc:98.28%
+Valid:	 Iteration[047/051] Acc:98.19%
+Valid:	 Iteration[048/051] Acc:98.10%
+Valid:	 Iteration[049/051] Acc:98.03%
+Valid:	 Iteration[050/051] Acc:97.95%
+Valid:	 Iteration[051/051] Acc:97.95%
+f1:0.9463978320156261
+acc:0.9795084915084915
+ROC AUC Score: 0.9954078516433129
+              precision    recall  f1-score   support
+
+         0.0       0.99      0.98      0.99    449099
+         1.0       0.87      0.94      0.90     51401
+
+    accuracy                           0.98    500500
+   macro avg       0.93      0.96      0.95    500500
+weighted avg       0.98      0.98      0.98    500500

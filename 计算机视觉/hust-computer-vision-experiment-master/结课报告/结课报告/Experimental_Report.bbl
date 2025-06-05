@@ -1,0 +1,63 @@
+\begin{thebibliography}{1}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{LIME}
+\bibauthor{RIBEIRO M~T\@, SINGH S\@, GUESTRIN C}\@. \bibtitle{"Why Should {I}
+  Trust You?": Explaining the Predictions of Any Classifier}\bibmark{[J/OL]}\@.
+  \bibjournal{CoRR}\@, \bibyear{2016}\@, \bibvolume{abs/1602.04938}\@.
+  \newline\url{http://arxiv.org/abs/1602.04938}\@.
+
+\bibitem{CAM}
+\bibauthor{ZHOU B\@, KHOSLA A\@, LAPEDRIZA {\`{A}}, et~al}\@.
+  \bibtitle{Learning Deep Features for Discriminative
+  Localization}\bibmark{[J/OL]}\@. \bibjournal{CoRR}\@, \bibyear{2015}\@,
+  \bibvolume{abs/1512.04150}\@.
+  \newline\url{http://arxiv.org/abs/1512.04150}\@.
+
+\bibitem{GradCAM++}
+\bibauthor{CHATTOPADHYAY A\@, SARKAR A\@, HOWLADER P, et~al}\@.
+  \bibtitle{Grad-{{CAM}}++: {{Improved Visual Explanations}} for {{Deep
+  Convolutional Networks}}}\bibmark{[J]}\@,
+  \bibyear{2018}\thinspace{}\textnormal{:
+  }\bibpages{839\thinspace{}\textnormal{--}\thinspace{}847}\@.
+
+\bibitem{XGradCAM}
+\bibauthor{FU R\@, HU Q\@, DONG X, et~al}\@. \bibtitle{Axiom-based Grad-CAM:
+  Towards Accurate Visualization and Explanation of CNNs}\bibmark{[J/OL]}\@.
+  \bibjournal{CoRR}\@, \bibyear{2020}\@, \bibvolume{abs/2008.02312}\@.
+  \newline\url{https://arxiv.org/abs/2008.02312}\@.
+
+\bibitem{ScoreCAM}
+\bibauthor{WANG H\@, WANG Z\@, DU M, et~al}\@. \bibtitle{Score-CAM:
+  Score-Weighted Visual Explanations for Convolutional Neural
+  Networks}\bibmark{[J]}\@, \bibyear{2020}\@.
+
+\bibitem{HiResCAM}
+\bibauthor{DRAELOS R~L\@, CARIN L}\@. \bibtitle{Use HiResCAM instead of
+  Grad-CAM for faithful explanations of convolutional neural
+  networks}\bibmark{[J]}\@, \bibyear{2021}\@.
+
+\end{thebibliography}
